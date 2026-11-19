@@ -1,6 +1,6 @@
 # 东云绘名 · GPT 桌宠
 
-![东云绘名桌宠素材图](preview.png)
+![待机](previews/idle.gif) ![挥手](previews/waving.gif) ![视线跟随](previews/look-directions.gif)
 
 东云绘名好可爱！
 
